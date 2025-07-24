@@ -51,3 +51,7 @@
   background-size: cover;
   width: 100%;
 }
+
+.prac{
+  grid-row:span 2;
+}
