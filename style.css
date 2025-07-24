@@ -24,3 +24,30 @@
   font-weight: <weight>;
   font-style: normal;
 }
+.backgroud-1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+              url(./assets/deal-bloom.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+}
+.backgroud-2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+              url(./assets/deal-ana.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+}
+.backgroud-3{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+              url(./assets/deal-zabo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+}
+.backgroud-4{
+  background-image: url(./assets/news-letter-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
